@@ -1,2 +1,2 @@
 # Money-Sorter
-See screenshots or download .apk to try the game
+See the presentation and screenshots to learn more or download the .apk to try the game
